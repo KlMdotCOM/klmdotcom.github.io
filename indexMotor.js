@@ -77,7 +77,7 @@ var programData=[
   {name: "Hit Lawyer", url: "https://picturelements.github.io/hitLawyer", icon: {url:"hitlawyer"}, keywords: "hit,lawyer,gadget"},
   {name: "Fractal", url: "https://aquaplexus.net/fractal", icon: {url:"fractal"}, keywords: "fractal,generator,interactive,math"},
   {name: "Multiples", url: "https://picturelements.github.io/multiples", icon: {url:"multiples"}, keywords: "multiples,math,interactive"},
-  {name: "Fireworks", url: "https://aquaplexus.net/firework", icon: {url:"fireworks"}, keywords: "fireworks,interactive,gadget,canvas"},
+  {name: "LUL", url: "https://lul.bz", icon: {url:"fireworks"}, keywords: "fireworks,interactive,gadget,canvas"},
   {name: "Phone Snake", url: "https://picturelements.github.io/phonesnake", icon: {url:"phonesnake"}, keywords: "phone,snake,game,interactive"},
   //{name: "Back Dropper", url: "https://picturelements.github.io/backdropper", icon: {url:"backdropper"}, keywords: "back,dropper,library,background,canvas"},
   {name: "Parrots", url: "https://picturelements.github.io/parrots", icon: {url:"parrots"}, keywords: "parrots,dank,reddit,party,epilepsy"},
